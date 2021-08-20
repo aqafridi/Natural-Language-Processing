@@ -28,24 +28,21 @@ This is the second course of the Natural Language Processing Specialization.
 
 **Week 1: Auto-correct using Minimum Edit Distance**
 
-- Create a simple auto-correct algorithm using minimum edit distance and dynamic programming
 
 **Week 2: Part-of-Speech (POS) Tagging**
 
-- Apply the Viterbi algorithm for POS tagging, which is important for computational linguistics
+
 
 **Week 3: N-gram Language Models**
 
-- Write a better auto-complete algorithm using an N-gram model (similar models are used for translation, determining the author of a text, and speech recognition)
+
 
 **Week 4: Word2Vec and Stochastic Gradient Descent**
 
-- Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model
 
 
 ## Course 3: Sequence Models in NLP
 
-This is the third course in the Natural Language Processing Specialization.
 
 * [**Week 1: Sentiment with Neural Nets**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201%20Neural%20Networks%20for%20Sentiment%20Analysis)
 
@@ -73,16 +70,14 @@ This is the fourth course in the Natural Language Processing Specialization.
 
 **Week 1: Neural Machine Translation with Attention**
 
-- Translate complete English sentences into French using an encoder/decoder attention model
 
 **Week 2: Summarization with Transformer Models**
 
-- Build a transformer model to summarize text
 
-**Week 3: Question-Answering with Transformer Models**
 
-- Use T5 and BERT models to perform question answering
+**Week 3: Question-Answering with Transformer(BERT) Models**
+
+
 
 **Week 4: Chatbots with a Reformer Model**
 
-- Build a chatbot using a reformer model
