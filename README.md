@@ -7,7 +7,7 @@ This is the first course of the Natural Language Processing Specialization.
 
 * [**Week 1: Logistic Regression for Sentiment Analysis of Tweets**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/1.%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201%20Sentiment%20Analysis%20with%20Logistic%20Regression)
 
-** Use a simple method to classify positive or negative sentiment in tweets
+         Use a simple method to classify positive or negative sentiment in tweets
 
 * [**Week 2: Naïve Bayes for Sentiment Analysis of Tweets**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/1.%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202%20Sentiment%20Analysis%20with%20Na%C3%AFve%20Bayes)
 
