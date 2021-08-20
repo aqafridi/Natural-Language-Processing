@@ -20,7 +20,7 @@ This is the first course of the Natural Language Processing Specialization.
 * [**Week 4: Word Embeddings and Locality Sensitive Hashing for Machine Translation**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/1.%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204%20Machine%20Translation%20and%20Document%20Search)
 
 
-
+* [**Slides**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/1.%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Slides)
 
 ## Course 2: Probabilistic Models in NLP
 
@@ -47,21 +47,20 @@ This is the second course of the Natural Language Processing Specialization.
 
 This is the third course in the Natural Language Processing Specialization.
 
-**Week 1: Sentiment with Neural Nets**
+* [**Week 1: Sentiment with Neural Nets**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201%20Neural%20Networks%20for%20Sentiment%20Analysis)
 
-- Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets
 
-**Week 2: Language Generation Models**
 
-- Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model
+* [**Week 2: RRN for Language Generation Models**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202%20Recurrent%20Neural%20Networks%20for%20Language%20Modeling)
 
-**Week 3: Named Entity Recognition (NER)**
 
-- Train a recurrent neural network to perform NER using LSTMs with linear layers
 
-**Week 4: Siamese Networks**
+* [**Week 3: Named Entity Recognition (NER)**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%203%20LSTMs%20and%20Named%20Entity%20Recognition)
 
-- Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning
+
+
+* [**Week 4: Siamese Networks**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204%20Siamese%20Networks)
+
 
 
 ## Course 4: Attention Models in NLP
