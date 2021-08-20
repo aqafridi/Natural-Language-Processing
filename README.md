@@ -51,7 +51,7 @@ This is the third course in the Natural Language Processing Specialization.
 
 
 
-* [**Week 2: RRN for Language Generation Models**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202%20Recurrent%20Neural%20Networks%20for%20Language%20Modeling)
+* [**Week 2: RNN/GRU for Language Generation Models**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202%20Recurrent%20Neural%20Networks%20for%20Language%20Modeling)
 
 
 
