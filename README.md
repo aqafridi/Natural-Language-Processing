@@ -62,6 +62,10 @@ This is the third course in the Natural Language Processing Specialization.
 * [**Week 4: Siamese Networks**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204%20Siamese%20Networks)
 
 
+* [**Slides**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Slides)
+
+
+
 
 ## Course 4: Attention Models in NLP
 
