@@ -79,5 +79,5 @@
 
 **Week 4: Chatbots with a Reformer Model**
 
-![]()
+![nlpspecilzation.png]()
 
