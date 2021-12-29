@@ -25,18 +25,18 @@
 
 
 
-**Week 1: Auto-correct using Minimum Edit Distance**
+* [**Week 1: Auto-correct using Minimum Edit Distance**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/2%20.Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201%20Auto-correct%20using%20Minimum%20Edit%20Distance)
 
 
-**Week 2: Part-of-Speech (POS) Tagging**
-
-
-
-**Week 3: N-gram Language Models**
+* [**Week 2: Part-of-Speech (POS) Tagging**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/2%20.Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202%20Part-of-Speech%20(POS)%20Tagging)
 
 
 
-**Week 4: Word2Vec and Stochastic Gradient Descent**
+* [**Week 3: N-gram Language Models**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/2%20.Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203%20N-gram%20Language%20Models)
+
+
+
+* [**Week 4: Word2Vec and Stochastic Gradient Descent**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/2%20.Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204%20Word2Vec%20and%20Stochastic%20Gradient%20Descent)
 
 
 
