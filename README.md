@@ -66,18 +66,18 @@
 ## Course 4: Attention Models in NLP
 
 
-**Week 1: Neural Machine Translation with Attention**
+* [**Week 1: Neural Machine Translation with Attention**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/4.%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%201%20Neural%20Machine%20Translation%20with%20Attention)
 
 
-**Week 2: Summarization with Transformer Models**
-
-
-
-**Week 3: Question-Answering with Transformer(BERT) Models**
+* [**Week 2: Summarization with Transformer Models**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/4.%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%202%20Summarization%20with%20Transformer%20Models)
 
 
 
-**Week 4: Chatbots with a Reformer Model**
+* [**Week 3: Question-Answering with Transformer(BERT) Models**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/4.%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203%20Question-Answering%20with%20Transformer(BERT)%20Models)
+
+
+
+* [**Week 4: Chatbots with a Reformer Model**](https://github.com/aqafridi/Natural-Language-Processing/tree/main/4.%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204%20Chatbots%20with%20a%20Reformer%20Model)
 
 ![nlpspecilzation.png](nlpspecilzation.png)
 
